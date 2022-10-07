@@ -109,6 +109,7 @@ Devops**.
 * [jesuisundev](https://www.jesuisundev.com)
 * [la forge](https://lafor.ge/)
 * [mcorbin](https://www.mcorbin.fr/)
+* Philippe Martin [Medium](https://feloy.medium.com/), [dev.to](https://dev.to/feloy)
 * [Stephane ROBERT](https://blog.stephane-robert.info/)
 * [tferdinand](https://tferdinand.net)
 * [Zwindler's Reflection](https://blog.zwindler.fr/)
